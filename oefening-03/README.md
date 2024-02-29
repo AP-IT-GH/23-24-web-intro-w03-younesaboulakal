@@ -10,7 +10,7 @@
 
 ### voorbeeld namaken
 
-- [ ] Maak een [semantische tabel](https://apwt.gitbook.io/g_webtechnologie/html/html-tabellen). Maak gebruik van de elementen `thead` (met `scope="col"` voor de `th`), `tbody` (met `scope="row"` voor de `th`) en `tfoot`
+- [ ] Maak een [semantische tabel](https://apwt.gitbook.io/g_webtechnologie/html/html-tabellen). Maak gebruik van de elementen `thead` (met `scope="col"` voor de `th` -en  `br` om de tekst op een volgende lijn te zetten-), `tbody` (met `scope="row"` voor de `th`) en `tfoot`
 - [ ] Voeg de klasse `table` toe aan het `table` element.
 
 ![Alt text](image.png)
