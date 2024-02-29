@@ -16,9 +16,13 @@ In deze repository vind je 6 oefeningen terug, elk in hun eigen map. De oefening
 Om Bootstrap te gebruiken (vanaf oefening 2) heb je volgende meta-informatie nodig. (plaats deze elementen in je `head`-element):
 
 ```html
+<!DOCTYPE html>
+<html lang="nl-BE">
+<head>
 <!-- Required meta tags -->
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
 <!-- Bootstrap CSS -->
 <link
   href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
@@ -33,6 +37,7 @@ Om Bootstrap te gebruiken (vanaf oefening 2) heb je volgende meta-informatie nod
   crossorigin="anonymous"
   defer
 ></script>
+</head>
 ```
 
 Wanneer je alle oefeningen hebt afgewerkt, kan je op je `Github Repo` gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de uploadzone op Digitap. Nadien corrigeer je zelf jouw labo op basis van de correctiesleutel op Digitap, om zo te leren uit jouw fouten.
